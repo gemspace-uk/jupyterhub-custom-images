@@ -1,2 +1,2 @@
 # jupyterhub-custom-images
-JupyerHub images with custom additions
+JupyterHub images with custom additions
