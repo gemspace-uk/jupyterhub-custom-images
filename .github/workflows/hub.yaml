@@ -1,4 +1,4 @@
-iname: Hub image
+name: Hub image
 
 on:
   push:
